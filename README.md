@@ -14,7 +14,7 @@ Con esta aplicación, los administradores pueden fácilmente registrar nuevos mi
 
 
 ## Demostración
-* Agregar Cliente 
+* Agregar Cliente
 
 ![Agregar Cliente](/img/archivo.gif)
 
